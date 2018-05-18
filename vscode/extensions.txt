@@ -1,0 +1,7 @@
+LaurentTreguier.uncrustify
+gaborv.flatbuffers
+ms-vscode.atom-keybindings
+ms-vscode.cpptools
+ms-vscode.Theme-TomorrowKit
+xmonader.vscode-capnp
+zxh404.vscode-proto3

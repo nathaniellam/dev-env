@@ -1,0 +1,14 @@
+{
+    "editor.fontFamily": "'Hasklig', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "boundary",
+    "window.zoomLevel": 1,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "Tomorrow Night",
+    "editor.rulers": [
+        80, 120
+    ]
+}
